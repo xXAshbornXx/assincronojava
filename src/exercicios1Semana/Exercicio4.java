@@ -21,7 +21,7 @@ public class Exercicio4 {
 		n4 = leia.nextFloat();
 		
 		// Processamento
-		dif = (n1 * n2) - (n3  * n4);
+		dif = (n1 * n2) - (n3 * n4);
 		
 		// Saída
 	System.out.print("A diferença entre os produtos é: " + dif + ".");

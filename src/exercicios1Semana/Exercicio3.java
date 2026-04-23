@@ -25,7 +25,7 @@ public class Exercicio3 {
 		
 		//Saída
 		
-		System.out.print("O seu salário líquido é R$ " + sl + ".");
+		System.out.print("O seu salário líquido é R$ " + sl + " .");
 
 	}
 
